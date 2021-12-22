@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0802a_t001">取消鬧鐘:</string>
+    <string name="m0802a_b001">確定</string>
+    <string name="m0802a_t002">鬧鐘</string>
+    <string name="m0802a_t003">88:88:88</string>
+    <string name="msg">別亂用</string>
+    <string name="m0802_alerm">倒數</string>
+</resources>

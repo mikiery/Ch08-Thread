@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">8.1 DateTimePicker</string>
+    <string name="action_settings">結束</string>
+    <string name="myname">05邱建傑</string>
+    <string name="action_about">關於我</string>
+    <string name="n_yy">年</string>
+    <string name="n_mm">月</string>
+    <string name="m_dd">日</string>
+    <string name="d_hh">點</string>
+    <string name="d_mm">分</string>
+    <!--    <string name="noback">禁用返回建</string>-->
+</resources>

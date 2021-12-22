@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- Base application theme. -->
+    -<style parent="Theme.AppCompat.Light.DarkActionBar" name="AppTheme">
+
+    <!-- Customize your theme here. -->
+
+    <item name="colorPrimary">@color/colorPrimary</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+    <item name="colorAccent">@color/colorAccent</item>
+
+</style>
+
+    -<style parent="Theme.AppCompat.Light.DarkActionBar" name="AppTheme_p">
+
+    <!-- Customize your theme here. -->
+
+    <item name="colorPrimary">@color/colorPrimary_p</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDark_p</item>
+
+    <item name="colorAccent">@color/colorAccent_p</item>
+
+</style>
+
+
+
+    <!-- ListActivity themes 顯示action bar-->
+    <style name="ListActivityActionBar" parent="android:Theme.Material.Light">
+        <!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">-->
+        <!--    <style name="AppTheme" parent="android:ThemeOverlay.Material.ActionBar">-->
+    </style>
+
+
+
+
+    <style name="StarBar" parent="AppTheme">
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlNormal">@color/black</item>
+
+    </style>
+
+
+</resources>

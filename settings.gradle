@@ -1,0 +1,19 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Ch08-Thread"
+include ':app'
+include ':0801_DateTimePicker'
+include ':0802_Timer'
+include ':0802a_Timer'
+include ':0802b_Timer'
+include ':0803_ProgressBar'
+include ':0804_Handler_Image'
+include ':0805_SeekBar_and_RatingBar'
+include ':0806_SideMenuDrawer'
+include ':0807_menu'

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/Ch08Thread/0801_DateTimePicker/src/main/res/layout/m0801.xml" value="0.33" />
+        <entry key="..\:/android-work/Ch08Thread/0802_Timer/src/main/res/layout/m0802.xml" value="0.265625" />
+        <entry key="..\:/android-work/Ch08Thread/0802a_Timer/src/main/res/layout/m0801.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/Ch08Thread/0802a_Timer/src/main/res/layout/m0802a.xml" value="0.33" />
+        <entry key="..\:/android-work/Ch08Thread/0802b_Timer/src/main/res/layout/m0802a.xml" value="0.25462962962962965" />
+        <entry key="..\:/android-work/Ch08Thread/0803_ProgressBar/src/main/res/layout/m0803.xml" value="0.33" />
+        <entry key="..\:/android-work/Ch08Thread/0804_Handler_Image/src/main/res/layout/m0804.xml" value="0.33" />
+        <entry key="..\:/android-work/Ch08Thread/0805_SeekBar_and_RatingBar/src/main/res/layout/m0805.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/Ch08Thread/0806_SideMenuDrawer/src/main/res/layout/leftmenu.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/Ch08Thread/0806_SideMenuDrawer/src/main/res/layout/m0806.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/Ch08Thread/0806_SideMenuDrawer/src/main/res/layout/rightmenu.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/Ch08Thread/0807_menu/src/main/res/layout/content_m0807.xml" value="0.2869791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
